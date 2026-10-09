@@ -1,0 +1,9 @@
+# Toolio robots.txt
+User-agent: *
+Allow: /
+
+# Exclude private dev artifacts
+Disallow: /api/private/
+
+# XML Sitemap
+Sitemap: https://toolio.pages.dev/sitemap.xml

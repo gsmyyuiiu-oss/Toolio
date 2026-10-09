@@ -1,0 +1,6 @@
+{
+  "name": "Toolio",
+  "description": "Toolio is a universal online toolbox with 460+ fast, free, and privacy-first online tools for media, documents, calculators, converters, code, and design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
